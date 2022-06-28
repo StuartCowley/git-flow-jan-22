@@ -3,6 +3,7 @@
     rugby,
     tennis,
     cycling,
+    skating
     basketball,
-    competitive walking,
+    competitive walking
 }
