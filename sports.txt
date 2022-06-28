@@ -1,0 +1,6 @@
+football,
+rugby,
+tennis,
+golf,
+cycling,
+basketball
