@@ -1,6 +1,8 @@
-football,
-rugby,
-tennis,
-golf,
-cycling,
-basketball
+{
+    football,
+    rugby,
+    tennis,
+    cycling,
+    basketball,
+    competitive walking,
+}
