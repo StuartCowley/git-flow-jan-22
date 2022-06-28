@@ -3,4 +3,5 @@ rugby,
 tennis,
 golf,
 cycling,
+skating
 basketball
