@@ -1,0 +1,10 @@
+{
+    football,
+    rugby,
+    tennis,
+    cycling,
+    something,
+    skating,
+    basketball,
+    competitive walking
+}

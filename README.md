@@ -17,6 +17,7 @@ git checkout -b <your-branch-name>
 ```
 ```
 git switch
+(you can also use git checkout= <your-branch-name>)
 ```
 
 ### 2. Commit and push the changes to the repo
